@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component name="dataSourceStorage">
+  <data-source source="LOCAL" name="Rails Firstwithpostgre: development" uuid="4d8a7528-eae5-4cb4-825d-18bff1e51e54">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+  <data-source source="LOCAL" name="Rails Firstwithpostgre: test" uuid="0dc89550-8421-475f-b5e8-960cdef92347">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+  <data-source source="LOCAL" name="Rails Firstwithpostgre: production" uuid="9b7cfb9a-2b76-4b1f-a1e5-4984a6234320">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+</component>
