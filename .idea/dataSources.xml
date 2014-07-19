@@ -20,8 +20,8 @@
     <data-source source="LOCAL" name="Rails Firstwithpostgre: production" uuid="9b7cfb9a-2b76-4b1f-a1e5-4984a6234320">
       <driver-ref>postgresql</driver-ref>
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
-      <jdbc-url>jdbc:postgresql:Firstwithpostgre_production</jdbc-url>
-      <user-name>Firstwithpostgre</user-name>
+      <jdbc-url>jdbc:postgresql:db68a5e2hmgm0l</jdbc-url>
+      <user-name>lysscykggzlwlb</user-name>
       <user-password>dfdedfcfdfd9dfde</user-password>
       <libraries />
     </data-source>

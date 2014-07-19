@@ -54,7 +54,7 @@ test:
 production:
   adapter: postgresql
   encoding: unicode
-  database: Firstwithpostgre_production
+  database: db68a5e2hmgm0l
   pool: 5
-  username: Firstwithpostgre
-  password: test
+  username: lysscykggzlwlb
+  password: 6al1iEIQIDLiKtyVbJXVbbOjYD
